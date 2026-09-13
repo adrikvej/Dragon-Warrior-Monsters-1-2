@@ -14,12 +14,19 @@ I learned a lot about MIPS assembly along the way! :)
 
 A few details for the curious:
 9,356 translated messages (mostly based on the Game Boy version of DWM!)
+
 Japanese graphics have been replaced (Hopefully all of them)
+
 I added ' and , to the character set, which weren't there originally. I tried replacing the entire font for a while, but in the end, I didn't like how it looked, so I stuck with the original font.
+
 Translating DWM1 went very quickly; I finished that in a month.
+
 Translating DWM2, on the other hand, was absolute hell. The endless randomly generated worlds almost made me give up a few times.
+
 I had to write a custom packer/unpacker because the English text otherwise never would have fit.
+
 I stumbled upon a debug menu, but it's non-functional. Apparently, it used to let you teleport around, add money, and things like that.
+
 I translated the phone functions, but didn't test them. Well, how could I have :D. But just in case, maybe some smart cookie can revive this
 
 And now, just for fun, the list of forbidden monster names:
