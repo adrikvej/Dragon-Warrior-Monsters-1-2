@@ -24,32 +24,33 @@ I translated the phone functions, but didn't test them. Well, how could I have :
 
 And now, just for fun, the list of forbidden monster names:
 
-JAP / rōmaji / translation
-チンコ	chinko	penis
-キンタマ	kintama	testicles
-チンチン	chinchin	penis
-アホ	aho	idiot
-チンポコ	chinpoko	dick
-ヘンタイ	hentai	pervert
-チンボ	chinbo	dick
-チカン	chikan	molester
-オメコ	omeko	pussy
-マンコ	manko	pussy
-オマンコ	omanko	pussy
-アソコ	asoko	private parts
-ウンコ	unko	shit
-デベソ	debeso	protruding navel
-ウンチ	unchi	poop
-ハナタレ	hanatare	snot-nose
-オシッコ	oshikko	piss
-セックス	sekkusu	sex
-バカ	baka	idiot / stupid
-オシリ	oshiri	ass
-マヌケ	manuke	moron
-アナル	anaru	anal / anus
-キチガイ	kichigai	psycho
-スケベ	sukebe	pervert
-ファック	fakku	fuck
+| Japanisch (JAP) | Rōmaji | Übersetzung |
+| :--- | :--- | :--- |
+| チンコ | chinko | penis |
+| キンタマ | kintama | testicles |
+| チンチン | chinchin | penis |
+| アホ | aho | idiot |
+| チンポコ | chinpoko | dick |
+| ヘンタイ | hentai | pervert |
+| チンボ | chinbo | dick |
+| チカン | chikan | molester |
+| オメコ | omeko | pussy |
+| マンコ | manko | pussy |
+| オマンコ | omanko | pussy |
+| アソコ | asoko | private parts |
+| ウンコ | unko | shit |
+| デベソ | debeso | protruding navel |
+| ウンチ | unchi | poop |
+| ハナタレ | hanatare | snot-nose |
+| オシッコ | oshikko | piss |
+| セックス | sekkusu | sex |
+| バカ | baka | idiot / stupid |
+| オシリ | oshiri | ass |
+| マヌケ | manuke | moron |
+| アナル | anaru | anal / anus |
+| キチガイ | kichigai | psycho |
+| スケベ | sukebe | pervert |
+| ファック | fakku | fuck |
 
 Have fun!
 
