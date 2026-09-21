@@ -1,3 +1,7 @@
+# I'll abandon this project to make room for a more advanced translation: https://www.romhacking.net/translations/7734/
+
+
+
 # Dragon-Warrior-Monsters-1-2
 
 SHA-1: 433EE5ACE196F509A1A1FB1992CD621124E57C3A
